@@ -1,2 +1,8 @@
-/.idea/
-/docs/Gemfile.lock
+.idea/
+Gemfile.lock
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
