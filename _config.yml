@@ -31,7 +31,7 @@ url: "https://gtalorcana.github.io" # the base hostname & protocol for your site
 logo: /assets/1.svg
 
 # Build settings
-theme: awesome-jekyll-theme
+remote_theme: awesome-jekyll-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
