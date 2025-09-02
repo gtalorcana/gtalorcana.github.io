@@ -41,9 +41,11 @@ parallel_localization: true
 # theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-archives
   - jekyll-remote-theme
+  - jekyll-archives
+  - jekyll-seo-tag
   - jekyll-polyglot
+
 remote_theme: a-chacon/awesome-jekyll-theme@main
 
 # Exclude from processing.
