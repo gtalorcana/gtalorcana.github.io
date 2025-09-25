@@ -37,14 +37,7 @@ exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
 parallel_localization: true
 
 # Build settings
-plugins:
- - jekyll-feed
- - jekyll-remote-theme
- - jekyll-archives
- - jekyll-seo-tag
- - jekyll-polyglot
-
-remote_theme: a-chacon/awesome-jekyll-theme@main
+theme: awesome-jekyll-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
