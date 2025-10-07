@@ -1,10 +1,14 @@
 ---
 layout: custom_page
-title: Scoreboard
+title: League
 nav: true
 footer: true
-permalink: /scoreboard
+permalink: /league
 ---
+
+Participate in your store's local events to earn points.
+
+Your top 10 scores in a season will be counted against every other players.
 
 [Link to Google Sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vS-zhHpESAU1-wkaDAA4rmUaydCXBiVbugkNDhI9QxEI2ZnACsziOdLKYLHFixkuTLzPtpvv4x7Qov3/pubhtml)
 
